@@ -12,7 +12,7 @@ Gatsby is a React-based open-source framework for creating websites. If you care
 
 # Terms & Concepts
 
-<strong>1 -Static site generator</strong>
+<strong>1 - Static site generator</strong>
 
 - Generates static HTML pages using a combo of templates, components & data.
 - Static pages are compiled at build-time (before deployment).
