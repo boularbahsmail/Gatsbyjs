@@ -1,4 +1,4 @@
-<img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsbyjs-Logo" height="90px" width="100%" />
+<img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsbyjs-Logo" height="120px" width="100%" />
 
 # Gatsbyjs :rocket:
 
