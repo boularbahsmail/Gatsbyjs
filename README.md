@@ -12,9 +12,13 @@ Gatsby is a React-based open-source framework for creating websites. If you care
 
 # Terms & Concepts
 
-<strong>• Static site generator</strong>
+<strong>1 -Static site generator</strong>
 
-Generates static HTML pages using a combo of templates, components & data.
+- Generates static HTML pages using a combo of templates, components & data.
+- Static pages are compiled at build-time (before deployment).
+- Gatsby sites / pages are made using React components.
+- Static pages are then deployed on the web.
+- After initial request, The site behaves more like an SPA (Single Page Application).
 
 &copy; 2022 - Learning <strong>Gatsbyjs</strong> with ❤️ by <a href="https://ismailium.vercel.app/"><b>Ismailium</b></a>
 
