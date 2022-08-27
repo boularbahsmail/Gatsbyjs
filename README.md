@@ -10,5 +10,11 @@
 
 Gatsby is a React-based open-source framework for creating websites. If you care deeply about performance and have data to be sourced from a headless CMS like Contentful, WordPress, or Drupal, you'll love building with Gatsby.
 
+# Terms & Concepts
+
+<strong>• Static site generator</strong>
+
+Generates static HTML pages using a combo of templates, components & data.
+
 &copy; 2022 - Learning <strong>Gatsbyjs</strong> with ❤️ by <a href="https://ismailium.vercel.app/"><b>Ismailium</b></a>
 
