@@ -1,6 +1,6 @@
 <img src="https://cdn.worldvectorlogo.com/logos/gatsby-logo.svg" alt="Gatsbyjs-Logo" height="120px" width="100%" />
 
-# Gatsbyjs :rainbow:
+# Gatsbyjs
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
