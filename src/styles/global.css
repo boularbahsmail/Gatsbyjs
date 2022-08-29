@@ -1,0 +1,63 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+html, body {
+    min-height: 100%;
+}
+
+body {
+    background: radial-gradient(at top left, rgba(146, 43, 255, 1) 0%, rgba(43, 9, 107, 1) 100%);
+    background-repeat: no-repeat;
+    color: white;
+    padding: 15px;
+}
+
+p {
+    margin: 16px auto;
+    line-height: 1.5em;
+}
+
+/* Layout & Nav */
+.layout {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+nav {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 15px auto;
+}
+
+nav ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul li {
+    list-style-type: none;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: white;
+    padding: 5px 0;
+}
+
+nav ul li a:hover {
+    border-bottom: 3px solid white;
+}
+
+footer h5 {
+    text-align: center;
+    color: #bbb;
+    margin: 40px auto;
+}
