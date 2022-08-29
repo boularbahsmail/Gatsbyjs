@@ -1,16 +1,17 @@
 import React from "react";
 
-// Components
-import Navbar from '../../components/Navbar';
+// Layout
+import Layout from '../../components/Layout';
 
 export default function About() {
     return (
-		<section>
-			<Navbar />
-			<div>
-				<h2>About</h2>
-				<p>Software Developer, Cuber, Chess and F1 lover.</p>
-			</div>
-		</section>
+		<Layout>
+			<section>
+				<div>
+					<h2>About</h2>
+					<p>Software Developer, Cuber, Chess and F1 lover.</p>
+				</div>
+			</section>
+		</Layout>
     )
 }

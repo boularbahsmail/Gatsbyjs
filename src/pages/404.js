@@ -1,16 +1,17 @@
 import React from "react";
 
-// Components
-import Navbar from '../components/Navbar';
+// Layout
+import Layout from '../components/Layout';
 
 export default function NotFound() {
     return (
-		<section>
-			<Navbar />
-			<div>
-				<h2>404</h2>
-				<p>Page Not Found.</p>
-			</div>
-		</section>
+		<Layout>
+			<section>
+				<div>
+					<h2>404</h2>
+					<p>Page Not Found.</p>
+				</div>
+			</section>
+		</Layout>
     )
 }
