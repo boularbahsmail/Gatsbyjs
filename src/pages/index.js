@@ -6,13 +6,15 @@ import Layout from '../components/Layout';
 export default function Home() {
     return (
 		<Layout>
-			<section>
-				<div>
-					<h2>Gatsby Starter</h2>
+			<section style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
+				<div style={{ width: '50%' }}>
+					<h1>Gatsby Starter</h1>
 					<p>Software Developer Based In Morocco.</p>
 				</div>
-	    			<img src="/banner.png" alt="Site-Banner" style={{ maxWidth: '100%' }} />
-			</section>
+	    			<div style={{ width: '50%' }}>
+	    			    	<img src="/banner.png" alt="Site-Banner" style={{ maxWidth: '100%' }} />
+				</div>
+	    		</section>
 		</Layout>
     )
 }
